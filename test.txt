@@ -1,4 +1,9 @@
 Test code
 master
+<<<<<<< HEAD
 2222222
 wwwwwwww
+=======
+123
+qqqqq
+>>>>>>> version1
